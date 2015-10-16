@@ -1,1 +1,2 @@
-Creating a new branch is quick AND simple. It' another test. 
+Creating a new branch is quick AND simple. It' another test.
+Git is a free software... 
